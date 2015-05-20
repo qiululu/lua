@@ -52,6 +52,8 @@ local function getPairs(str, tb)
       if tbAtrr.width or tbAtrr.height then
         -- 指定控件大小，适配尺寸
       end
+    elseif k == 'a' then
+      
     end
     
     print('----------------\n')
